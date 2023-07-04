@@ -1,0 +1,44 @@
+[
+    {
+        "day" : 1,
+        "temp" : 28,
+        "img" : "./cloudy.jpg",
+        "message" : "cloudy"
+    },
+    {
+        "day" : 2,
+        "temp" : 30,
+        "img" : "./rainy.jpg",
+        "message" : "rainy"
+    },
+    {
+        "day" : 3,
+        "temp" : 31,
+        "img" : "./sunny.png",
+        "message" : "sunny"
+    },
+    {
+        "day" : 4,
+        "temp" : 24,
+        "img" : "./cloudy.jpg",
+        "message" : "cloudy"
+    },
+    {
+        "day" : 5,
+        "temp" : 28,
+        "img" : "./sunny.png",
+        "message" : "sunny"
+    },
+    {
+        "day" : 6,
+        "temp" : 22,
+        "img" : "./rainy.jpg",
+        "message" : "rainy"
+    },
+    {
+        "day" : 7,
+        "temp" : 20,
+        "img" : "./cloudy.jpg",
+        "message" : "cloudy"
+    }
+]

@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <title>weekly weather forecast</title>
+    <style>
+      #grid-container {
+        padding-top: 20px;
+      }
+      #date {
+        margin-top: 20px;
+        height: auto;
+        width: auto;
+        padding-left: 30px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>from</h1>
+    <input type="date" id="fromdate" />
+    <h1>to</h1>
+    <input type="date" id="todate" />
+    <button id="weather-btn" onclick="getdate()">submit</button>
+    <div id="grid-container">
+      <!-- //here weekly weather forecast displayed -->
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
